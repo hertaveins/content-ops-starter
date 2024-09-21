@@ -1,6 +1,6 @@
 ---
 title: Top 5 Trends in Sectional Sofas for Modern Homes
-slug: blog//Top-5-Trends-in-Sectional-Sofas-for-Modern-Homes
+slug: blog/Top-5-Trends-in-Sectional-Sofas-for-Modern-Homes
 numOfPostsPerPage: 1
 enableSearch: true
 topSections:
