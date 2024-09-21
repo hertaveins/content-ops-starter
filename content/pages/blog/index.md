@@ -31,7 +31,7 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Top 5 Trends in Sectional Sofas for Modern Homes
   metaDescription: >-
     Discover the top 5 trends in sectional sofas for modern homes! From
     innovative designs to sustainable materials, explore how these stylish
