@@ -33,8 +33,9 @@ styles:
 seo:
   metaTitle: Blog - Demo site
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    Discover the top 5 trends in sectional sofas for modern homes! From
+    innovative designs to sustainable materials, explore how these stylish
+    pieces can enhance your living space.
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
