@@ -52,7 +52,7 @@
                 },
                 {
                     "label": "bed furniture",
-                    "url": "/",
+                    "url": "/bed-furniture",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
