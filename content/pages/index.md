@@ -8,7 +8,7 @@ sections:
         title: Top 5 Trends in Sectional Sofas for Modern Homes
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >+
+        text: >
           When it comes to modern living, the [**sectional
           sofa**](https://fshfurniture.ae/sectional-sofa-dubai/) has taken
           center stage. This versatile piece of furniture is not just about
@@ -18,7 +18,7 @@ sections:
           innovative features that cater to various lifestyles. Whether you’re
           entertaining guests or enjoying a quiet evening at home, there's a
           perfect sectional out there for you. Let’s dive into the top five
-          trends shaping sectional sofas in contemporary interiors!
+          trends shaping sectional sofas in contemporary interiors
 
 
           ## Top 5 Trends in Sectional Sofas for Modern Homes
@@ -291,9 +291,6 @@ sections:
           decision. With careful thought and planning, you'll find the perfect
           sectional sofa that complements both function and aesthetics in your
           modern home.
-
-
-
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
