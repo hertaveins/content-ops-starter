@@ -35,7 +35,7 @@ sections:
           sofas. Upholstery trends range from luxurious velvet to durable
           performance fabrics, making it easy to find a look that matches your
           home decor. Sleek designs with contemporary finishes contribute not
-          only style but also functionality in modern interiors.
+          only style but also functionality in modern interiors..
 
 
           ## Innovative Designs and Features
