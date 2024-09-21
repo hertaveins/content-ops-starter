@@ -53,7 +53,7 @@ postFeed:
   variant: three-col-grid
   colors: bg-light-fg-dark
   hoverEffect: move-up
-isDraft: false
+isDraft: true
 ---
 When it comes to modern living, the [**sectional sofa**](https://fshfurniture.ae/sectional-sofa-dubai/) has taken center stage. This versatile piece of furniture is not just about comfort; it's about style and functionality too. As homes become more open and inviting, having a stylish yet practical seating option becomes essential. With evolving design trends, sectionals offer innovative features that cater to various lifestyles. Whether you’re entertaining guests or enjoying a quiet evening at home, there's a perfect sectional out there for you. Let’s dive into the top five trends shaping sectional sofas in contemporary interiors!
 
