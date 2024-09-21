@@ -330,7 +330,10 @@ sections:
     type: DividerSection
 seo:
   metaTitle: 'Buy Furniture Online In Dubai, UAE'
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Shop the best home furniture online in Dubai with us! Discover a wide range
+    of stylish, high-quality furniture pieces to enhance every room in your
+    home. Enjoy great prices
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
