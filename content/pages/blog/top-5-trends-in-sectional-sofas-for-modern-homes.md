@@ -93,6 +93,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/pikaso_texttoimage_modern-sectional-sofa (5).jpeg
 colors: bg-light-fg-dark
 styles:
   self:
