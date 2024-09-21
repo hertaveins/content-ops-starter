@@ -61,7 +61,7 @@
                 },
                 {
                     "label": "Wardrobe",
-                    "url": "/",
+                    "url": "/wardrobe",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
