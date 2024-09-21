@@ -85,7 +85,7 @@ bottomSections:
           borderRadius: large
     colors: bg-light-fg-dark
 slug: top-5-trends-in-sectional-sofas-for-modern-homes
-isFeatured: true
+isFeatured: false
 isDraft: false
 seo:
   type: Seo
