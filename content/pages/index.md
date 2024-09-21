@@ -7,7 +7,7 @@ sections:
       text: We prioritize quality in every piece of furniture we offer
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
 
       Our extensive collection includes various styles, from modern and
