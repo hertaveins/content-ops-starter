@@ -35,7 +35,7 @@ sections:
           sofas. Upholstery trends range from luxurious velvet to durable
           performance fabrics, making it easy to find a look that matches your
           home decor. Sleek designs with contemporary finishes contribute not
-          only style but also functionality in modern interiors.
+          only style but also functionality in modern interiors..
 
 
           ## Innovative Designs and Features
@@ -294,7 +294,7 @@ sections:
           modern home.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/pikaso_texttoimage_modern-sectional-sofa (5).jpeg
           altText: Featured item
           styles:
             self:
