@@ -329,7 +329,7 @@ sections:
           - pr-7
     type: DividerSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: 'Buy Furniture Online In Dubai, UAE'
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
