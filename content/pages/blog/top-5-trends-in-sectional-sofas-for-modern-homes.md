@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/pikaso_texttoimage_modern-sectional-sofa (5).jpeg
   altText: Thumbnail
   elementId: ''
   styles:
