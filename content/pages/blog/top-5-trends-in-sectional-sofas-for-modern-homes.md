@@ -89,7 +89,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Top 5 Trends in Sectional Sofas for Modern Homes
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
