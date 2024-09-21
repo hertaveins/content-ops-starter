@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Top 5 Trends in Sectional Sofas for Modern Homes
-date: '2022-10-10'
+date: '2022-10-02'
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
