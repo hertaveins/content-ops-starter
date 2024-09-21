@@ -294,7 +294,7 @@ sections:
           modern home.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/pikaso_texttoimage_modern-sectional-sofa (5).jpeg
           altText: Featured item
           styles:
             self:
