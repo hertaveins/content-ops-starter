@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: Top 5 Trends in Sectional Sofas for Modern Homes
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: Find Modern Sofa
         text: >
           When it comes to modern living, the [**sectional
           sofa**](https://fshfurniture.ae/sectional-sofa-dubai/) has taken
