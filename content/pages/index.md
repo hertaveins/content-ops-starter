@@ -65,7 +65,8 @@ sections:
 
 
           This adaptability makes them perfect for entertaining guests or
-          enjoying quiet nights at home. You can arrange them in an L-shape,
+          enjoying quiet nights at home. You can arrange them in an [**L shape
+          sofa**](https://www.paragonfurniture.ae/product-category/l-shape-sofa-set/),
           U-shape, or even curve them around your space, maximizing both comfort
           and style without sacrificing functionality.
 
