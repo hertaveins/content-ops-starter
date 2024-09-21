@@ -90,7 +90,10 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Top 5 Trends in Sectional Sofas for Modern Homes
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Discover the top 5 trends in sectional sofas for modern homes! From
+    innovative designs to sustainable materials, explore how these stylish
+    pieces can enhance your living space.
   addTitleSuffix: false
   metaTags: []
   socialImage: /images/pikaso_texttoimage_modern-sectional-sofa (5).jpeg
