@@ -86,7 +86,7 @@ bottomSections:
     colors: bg-light-fg-dark
 slug: top-5-trends-in-sectional-sofas-for-modern-homes
 isFeatured: false
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: Top 5 Trends in Sectional Sofas for Modern Homes
