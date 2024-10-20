@@ -348,6 +348,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+    subtitle: Recent Post
   - title: Divider
     colors: bg-light-fg-dark
     styles:
